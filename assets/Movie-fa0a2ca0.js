@@ -1,0 +1,1 @@
+import{_ as a}from"./Media-d0ae22c4.js";import{y as o,z as t,o as s,c,a as n}from"./index-3c17739d.js";const r={class:"main"},l={__name:"Movie",setup(_){const e=o("reload");return t(()=>{e()}),(m,i)=>(s(),c("main",r,[n(a,{type:"movie"})]))}};export{l as default};
